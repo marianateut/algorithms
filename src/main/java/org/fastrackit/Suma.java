@@ -7,7 +7,7 @@ public class Suma {
         int y=5;
         int sum= x + y;
 
-        System.out.println("suma este:" + sum);
+        System.out.println("suma este:  " + sum);
 
 
     }
